@@ -6,7 +6,7 @@ This is part of the Swift Tech Co. working stack for product and engineering. It
 
 ## Images
 
-[![openrecipes](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![openrecipes](images/preview.png)](https://github.com/Swift-Tech-Co/openrecipes)
 
 ## About
 
@@ -47,17 +47,15 @@ Wanna help? Fantastic. We knew we liked you.
 
 Head over to the wiki to see how you can help out.
 
-
 ## Feedback?
-
 
 We're also gonna be on IRC, so please feel free to join us if you have any questions or comments. We'll be hanging out in #openrecipes on Freenode. See you there!
 
 ## License
 
-The Open Recipes Database is licensed under a <a rel="license" href="https://www.swifttechco.com">Creative Commons Attribution 3.0 Unported License</a>.
+The Open Recipes Database is licensed under a <a rel="license" href="https://github.com/Swift-Tech-Co/openrecipes">Creative Commons Attribution 3.0 Unported License</a>.
 
-<a rel="license" href="https://www.swifttechco.com"></a>
+<a rel="license" href="https://github.com/Swift-Tech-Co/openrecipes"></a>
 
 © 2013 Fictive Kin LLC
 
@@ -98,13 +96,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/openrecipes
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [fictive-kin/openrecipes](https://github.com/fictive-kin/openrecipes) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
